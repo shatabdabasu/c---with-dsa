@@ -1,0 +1,47 @@
+
+Arrays
+- Two pointers
+
+- Sliding window
+
+- Prefix / Running sum
+
+- Frequency array
+
+- Hash map
+
+- In-place swap
+
+- Sorting + logic
+
+- Binary search
+
+- Greedy scan
+
+- Brute force (nested loops)
+
+MAP
+- key → value storage
+- fast lookup using key
+- keys are unique
+- value can repeat
+- insert, find, delete in O(1) average
+- unordered_map → faster, no order
+- map → ordered (sorted by key)
+
+LIST
+- non-contiguous memory
+- each node = data + pointer
+- dynamic size
+- easy insertion/deletion
+- slow access (no indexing)
+- traversal only sequential
+- more memory (pointers)
+
+WHEN TO USE
+- map → counting, lookup, frequency
+- list → frequent insert/delete in middle
+
+COMMON USE
+- map → frequency count, hash table logic
+- list → stack, queue, adjacency list
