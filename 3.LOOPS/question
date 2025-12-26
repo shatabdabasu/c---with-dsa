@@ -1,0 +1,49 @@
+
+📜 C++ Practice Assignment – Control Structures & Loops
+
+
+Basic Loops and Number Series
+Q1. Write a program to print all odd numbers from 1 to 100.
+
+Q2. Write a program to print all numbers from 1 to 100 that are divisible by 3.
+
+Q3. Write a program to print the multiplication table of a number n.
+(Here, n is taken as input from the user.)
+
+Q4. Display the following Arithmetic Progression (AP) sequence up to n terms:
+4, 7, 10, 13, 16…
+(Where n is input by the user.)
+
+Q5. Display the following Geometric Progression (GP) sequence up to n terms:
+3, 12, 48, 192…
+(Where n is input by the user.)
+
+ASCII Values and Character Handling
+Q6. Write a program to print all the ASCII values and their equivalent characters for the 26 capital English alphabets using a while loop.
+
+Digit-Based Problems
+Q7. Write a program to calculate and print the sum of all even digits of a given number.
+(The number is input by the user.)
+
+Q8. Write a program to print the sum of a given number and its reverse.
+(The number is input by the user.)
+
+Factorials and Fibonacci
+Q9. Write a program to print the factorials of the first n numbers.
+(Value of n is input by the user.)
+
+Q10. Write a program to print the first n Fibonacci numbers.
+(Value of n is input by the user.)
+
+Special Number Checks
+Q11. Write a program to print all Armstrong numbers between 1 and 500.
+(A number is called an Armstrong number if the sum of the cubes of its digits is equal to the number itself. For example: 153 = 1³ + 5³ + 3³)
+
+📌 Bonus Challenge Questions (Optional)
+Print all prime numbers between 1 and 100.
+
+Find the sum of the digits of a given number n.
+
+Display the reverse of a number n using a while loop.
+
+Find the GCD (Greatest Common Divisor) of two numbers using the Euclidean algorithm.

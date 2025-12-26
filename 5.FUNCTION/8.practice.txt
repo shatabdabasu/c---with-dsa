@@ -1,0 +1,19 @@
+
+
+Q1. Write a function to print squares of n natural numbers.
+
+Q2. Write a function to take the radius of a circle as an argument and return its area.
+
+Q3. Given two numbers a and b, write a function to print all odd numbers between them.
+
+Q4. Write a function to count the number of digits in a number and then print the square of this number.
+
+Q5. What is the minimum number of functions in any C++ program?
+
+Q6. State True or False: A function may be called more than once from any other function.
+
+Q7. Can the same function name be used for different functions without any conflict? Explain when it is allowed.
+
+Q8. Is it necessary for a function to return a value? State True or False with reason.
+
+Q9. What do you mean by function overloading? When is it possible in C++?
